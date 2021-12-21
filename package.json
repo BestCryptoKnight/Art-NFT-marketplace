@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.2.0",
+    "@truffle/hdwallet-provider": "^1.4.2",
+    "@types/chai": "^4.2.21",
+    "chai": "^4.3.4",
+    "chai-as-promised": "7.1.1",
+    "install": "^0.13.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3",
+    "truffle": "^5.4.0"
+  }
+}
